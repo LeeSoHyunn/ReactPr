@@ -15,8 +15,8 @@ z
     console.log(1);
   }
   return (
-    <div className="dfdfdfdfdfdfApp">dfdfdfdf
-      <div className='black-navcvcvcvcvdfdfdfdfdfcvxvcvcv'>
+    <div className="App">
+      <div className='black-nav'>
         <h4>블로그</h4>
         </div>
 

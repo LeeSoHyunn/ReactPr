@@ -6,7 +6,7 @@ function App() {
 
   let post='강남 우동 맛집';
   let [글제목,글제목변경] = useState(['남자 코트 추천', '강남 우동맛집', '파이썬독학']);
-
+z
   let [따봉, c] = useState([0,0,0]);  
   
   let [modal, setModal]= useState(false);
@@ -15,8 +15,8 @@ function App() {
     console.log(1);
   }
   return (
-    <div className="App">
-      <div className='black-nav'>
+    <div className="dfdfdfdfdfdfApp">
+      <div className='black-navcvcvcvcvcvxvcvcv'>
         <h4>블로그</h4>
         </div>
 

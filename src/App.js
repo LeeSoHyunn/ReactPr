@@ -59,7 +59,8 @@ function App() {
           글제목.map(function(a, i){  //반복문 돌때마다 0부터 1씩 증가하는 정수
             return (   
             <div className="list">
-              <h4>{ 글제목[i] }
+              <h4 onClick={() => {setModal(true)}}>
+              { 글제목[i] }
                 <span onClick={ () => {
                   let copy = [...따봉];
                   copy[i] = copy[i]+1;

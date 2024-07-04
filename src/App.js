@@ -8,15 +8,15 @@ function App() {
   let [글제목,글제목변경] = useState(['남자 코트 추천', '강남 우동맛집', '파이썬독학']);
 z
   let [따봉, c] = useState([0,0,0]);  
-  
-  let [modal, setModal]= useState(false);
+  dfdfdfdffd
+  let [modal, setModal]= useStdfdfdfafdfdfdfdfte(false);
 
   function 함수(){  //() => {console.log} //함수 만드는 문법 바로 넣어도 괜찮음
     console.log(1);
   }
   return (
-    <div className="dfdfdfdfdfdfApp">
-      <div className='black-navcvcvcvcvcvxvcvcv'>
+    <div className="dfdfdfdfdfdfApp">dfdfdfdf
+      <div className='black-navcvcvcvcvdfdfdfdfdfcvxvcvcv'>
         <h4>블로그</h4>
         </div>
 
